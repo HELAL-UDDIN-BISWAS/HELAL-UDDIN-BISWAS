@@ -1,8 +1,10 @@
-### Hi there 👋, My Name Is Helal Uddin Biswas
+
 ![](https://media.licdn.com/dms/image/D5616AQEaf9Q88WEouQ/profile-displaybackgroundimage-shrink_350_1400/0/1702124294031?e=1707350400&v=beta&t=bRXbqEWiFVYikXY2Pm2czlSwmkX5YiKaj1VCgdC-56o)
+### Hi there 👋, My Name Is Helal Uddin Biswas
 
-
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on programming Hero Student
+- 🌱 I’m currently learning Web Development 
+- 💬 Ask me about Web Development 
 
 ## Skills and Technologies I Work With
 
